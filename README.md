@@ -1,4 +1,4 @@
-# Android3rdpartySO
+﻿# Android3rdpartySO
 用于编译第3方动态库的工程
 
 您可以直接使用已经编译好的库(在 libs 目录内)，也可以下载工程来自己编译。
@@ -7,4 +7,4 @@
 
 目前工程包含以下第3方开源库：
 p7zip
-
+mathomatic
